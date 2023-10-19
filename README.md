@@ -1,5 +1,5 @@
 <html>
 <body>
-<maquree>hhh<maquree>
-<body>
-<html>
+<marquee>hhh</marquee>
+</body>
+</html>
