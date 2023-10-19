@@ -1,5 +1,5 @@
 <html>
 <body>
-<marquee>AKJ akhand kirtan jatha smagem PLease subskribe to kartar singh derby and SGSSDERBY live </marquee>
+<b><marquee>AKJ akhand kirtan jatha smagem PLease subscribe to kartar singh derby and SGSSDERBY live </marquee></b>
 </body>
 </html>
