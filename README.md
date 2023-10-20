@@ -3,14 +3,14 @@
   <head>
     <style>
       body {
-        background-color: blue;
+        background-color: baby blue;
         color: white; hello 
       }
       ::-moz-selection {
-        background-color: lightblue;
+        background-color: green;
       }
       ::-selection {
-        background-color: lightblue;
+        background-color: green;
       }
     </style>
   </head>
