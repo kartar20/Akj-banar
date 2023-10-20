@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <style>
       body {
         background-color: baby blue;
-        color: white; hello 
+        color: black; hello 
       }
       ::-moz-selection {
         background-color: green;
